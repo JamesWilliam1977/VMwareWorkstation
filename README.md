@@ -33,6 +33,11 @@
 <hr>
 
 # VMwareWorkstation 26H1
+* 26H1u1
+  * https://github.com/201853910/VMwareWorkstation/releases/download/26H1/VMware-Workstation-Full-26H1u1-25688693.exe
+  * 
+  * https://github.com/201853910/VMwareWorkstation/releases/download/26H1/VMware-Workstation-Full-26H1u1-25688693.x86_64.bundle
+  * 
 * 26H1 
   * https://github.com/201853910/VMwareWorkstation/releases/download/26H1/VMware-Workstation-Full-26H1-25388281.exe
   * 
